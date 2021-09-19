@@ -95,6 +95,6 @@ TRẢI NGHIỆM NGAY THỜI KHÓA BIỂU DEMO TRÊN MẠNG [TẠI ĐÂY](https:/
 - A: Hiện tại, trong một số lớp sử dụng TimetableApp, có một nhóm học sinh duy trì thời khóa biểu. Nếu bạn muốn bắt đầu duy trì TKB cho lớp mình, hãy cân nhắc sử dụng [CaranoParse](https://github.com/trungnt2910/caranoparse), hoặc có thể liên hệ chúng tôi để biết thêm chi tiết.
 
 - Q: Có cộng đồng nào hỗ trợ và bàn luận về TimetableApp không?
-- A: Hiện tại không nhé! Nếu có vấn đề gì, các bạn có thể liên hệ `AduMaster#9035` trên Discord, và nếu cộng động sử dụng TimetableApp phát triển có lẽ chúng tôi sẽ mở một server Discord cho ứng dụng này.
+- A: Hiện tại không nhé! Nếu có vấn đề gì, các bạn có thể liên hệ `AduMaster#9035` trên Discord, và nếu cộng đồng sử dụng TimetableApp phát triển có lẽ chúng tôi sẽ mở một server Discord cho ứng dụng này.
 
 CHÚC CÁC BẠN MÙA HỌC ONLINE HIỆU QUẢ.
